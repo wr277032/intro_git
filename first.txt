@@ -1,0 +1,2 @@
+I will practice Git.
+I will learn basic workflow.
